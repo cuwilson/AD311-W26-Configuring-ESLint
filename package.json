@@ -1,0 +1,18 @@
+{
+  "name": "ad311-w26-configuring-eslint",
+  "version": "1.0.0",
+  "description": "assignment used to gain hands-on experience in setting up and configuring ESLint in a Node.js project to ensure code consistency and avoid potential bugs.",
+  "license": "ISC",
+  "author": "Copper Wilson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@stylistic/eslint-plugin": "^5.7.1",
+    "eslint": "^9.39.2",
+    "globals": "^17.2.0"
+  }
+}
