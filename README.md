@@ -15,5 +15,6 @@ Gain hands-on experience in setting up and configuring ESLint in a Node.js proje
 - tested by creating `testFile.js` and running `npx eslint testFile.js` 
 
 ### Observations
+- I initially received a configuration error due to a typo ("alwyas" instead of "always"), but after fixing the typo, ESLint ran correctly 
 - ESLint detected the missing semicolons and incorrect quotation marks based on my custom rules
 - the `--fix` option was very helpful and automatically correct the problems, which could make it easier to enforce standards across a bigger project
